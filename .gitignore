@@ -1,3 +1,14 @@
+# ------------------ Project Specific ------------------
+
+production/
+production/Certificate_Template.docx
+production/data.csv
+production/data.xlsx
+production/output/
+
+# ------------------ Python Specific ------------------
+# Source: https://github.com/github/gitignore/blob/main/Python.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
